@@ -3,6 +3,7 @@ site_description: K3K's Learning Vault
 repo_url: hhttps://github.com/gamer2810/learning-vault
 site_url: https://blog.k3k.dev # Change this to your site URL
 site_author: K3K
+copyright: Copyright &copy; 2024 - 2024 Kha Tran
 
 theme:
     name: 'material'
@@ -112,7 +113,6 @@ plugins:
   - callouts
   - glightbox
   - social
-  - blog
 hooks:
   - overrides/hooks/on_page_markdown.py
   - overrides/hooks/on_env.py
@@ -141,7 +141,6 @@ extra:
   hooks:
     strip_comments: true
     fix_heading: true
-  copyright: Copyright &copy; 2024 - 2024 Kha Tran
   social:
     - icon: fontawesome/brands/github 
       link: https://github.com/gamer2810
