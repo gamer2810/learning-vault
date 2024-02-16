@@ -1,6 +1,6 @@
 site_name: K3K's Learning Vault # Change this to your site name
 site_description: K3K's Learning Vault
-site_url: blog.k3k.dev # Change this to your site URL
+site_url: https://blog.k3k.dev # Change this to your site URL
 site_author: K3K
 
 theme:
