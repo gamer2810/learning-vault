@@ -1,5 +1,8 @@
 ---
 share: "true"
+hide:
+  - navigation
+  - toc
 ---
 
 ##   Learning Never Stops: A Developer's Ongoing CS Journey
