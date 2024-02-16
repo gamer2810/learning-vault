@@ -3,7 +3,7 @@ share: "true"
 ---
 
 Lecture: 
-![Youtube](https://youtube.com/watch?v=22hwcnXIGgk&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx)
+![Youtube](https://www.youtube.com/embed?v=22hwcnXIGgk&list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx)
 
 ## Synopsis
 Travelling salesman approaches:
