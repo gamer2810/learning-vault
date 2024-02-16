@@ -144,6 +144,9 @@ extra:
   hooks:
     strip_comments: true
     fix_heading: true
+  analytics:
+    provider: google
+    property: G-1RK7E69VPY
   social:
     - icon: fontawesome/brands/github 
       link: https://github.com/gamer2810
