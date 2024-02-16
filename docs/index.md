@@ -1,6 +1,6 @@
 ---
 share: "true"
-comment: false
+comments: false
 hide:
   - navigation
   - toc
