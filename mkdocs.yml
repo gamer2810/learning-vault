@@ -40,12 +40,11 @@ theme:
         - navigation.indexes
         - navigation.top
         - navigation.footer
-        - navigation.instant
-        - navigation.instant.progress
         - navigation.tabs
         - navigation.tabs.sticky
         - navigation.expand
         - search.suggest
+        - toc.integrate
         - search.highlight
     icon:
       repo: fontawesome/brands/github
