@@ -42,8 +42,6 @@ theme:
         - navigation.footer
         - navigation.instant
         - navigation.instant.progress
-        - navigation.prune
-        - toc.integrate
         - navigation.tabs
         - navigation.tabs.sticky
         - navigation.expand
