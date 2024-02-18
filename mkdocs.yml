@@ -17,6 +17,11 @@ theme:
     language: en
     palette:
 
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
