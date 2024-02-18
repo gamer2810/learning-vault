@@ -2,7 +2,7 @@ site_name: K3K's Learning Vault # Change this to your site name
 site_description: K3K's Learning Vault
 repo_url: hhttps://github.com/gamer2810/learning-vault
 repo_name: gamer2810/learning-vault
-site_url: https://blog.k3k.dev # Change this to your site URL
+site_url: https://blog.k3k.dev/ # Change this to your site URL
 site_author: K3K
 copyright: Copyright &copy; 2024 - 2024 Kha Tran
 
